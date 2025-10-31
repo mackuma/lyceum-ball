@@ -2,7 +2,8 @@
 body {
     font-family: "Georgia", serif;
     /* background-color: #FAE3C6; */
-	background: linear-gradient(blue, red)
+	background: linear-gradient(45deg, #FAE3C6, #4D2F00);
+	background-attachment: fixed;
     color: #2C3E50; 
     margin: 0;
     padding: 0;
@@ -344,5 +345,6 @@ st {
     text-align: justify; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
 
